@@ -1,0 +1,13 @@
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "kevin", email = "kevin197011@outlook.com"},
+]
+dependencies = [
+    "pymysql>=1.1.0",
+]
+requires-python = ">=3.11"
+license = {text = "MIT"}
